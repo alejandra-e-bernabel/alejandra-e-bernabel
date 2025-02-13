@@ -3,9 +3,13 @@ A Computer Science graduate student specializing in robotics with experience in 
 
 🔧 Technical Skills
 Programming: C, C++, Python, Java, JavaScript, TypeScript
+
 Software Development: Object-Oriented Programming, Agile Development, Software Design
+
 DevOps & CI/CD: Git (GitHub, GitLab), Docker, Azure
+
 Databases: Microsoft SQL, MySQL, NoSQL
+
 Systems: Linux, Windows
 
 📫 How to Reach Me
